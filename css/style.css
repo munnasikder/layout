@@ -1,0 +1,64 @@
+.header{
+	min-height: 100px;
+	background-color: #52647A;
+}
+.slider{
+	min-height: 400px;
+	background-color: #28B392;
+}
+.container{
+	overflow: hidden;
+}
+.gallery{
+	float: left;
+	width: 33.33%;
+	min-height: 150px;
+}
+.one{
+	background-color: #E1B59F;
+}
+.two{
+	background-color: #A46C52;
+}
+.three{
+	background-color: #753E2F;
+}
+.wrapper{
+	overflow: hidden;
+}
+.about{
+	float: left;
+	width: 25%;
+	min-height: 200px;
+}
+.four{
+	background-color: red;
+}
+.five{
+	background-color: green;
+}
+.six{
+	background-color: blue;
+}
+.seven{
+	background-color: indigo;
+}
+.section{
+	overflow: hidden;
+}
+.blog{
+	min-height: 400px;
+	float: left;
+	width: 75%;
+	background-color: #292D36;
+}
+.contact{
+	min-height: 400px;
+	float: right;
+	width: 25%;
+	background-color: #020201;
+}
+.footer{
+	min-height: 100px;
+	background-color: #22AF8D;
+}
